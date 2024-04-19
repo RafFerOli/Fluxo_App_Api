@@ -33,3 +33,5 @@ automaticamente após uma mudança no código fonte.
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
+
+> Para executar o sistema completamente será necessário fazer o download do projeto [Fluxo App Front](https://github.com/RafFerOli/Fluxo_App_Front/tree/main), salvar a pasta Fluxo_app_front e fluxo_app_api no mesmo diretório, abrir o diretório no Visual Studio Code e seguir as instruções de [README.md](https://github.com/RafFerOli/Fluxo_App_Front/blob/main/Fluxo_app_front/README.md).
