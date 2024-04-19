@@ -1,4 +1,4 @@
-# Projeto de API Web em Python para Gestão de Fluxo de Caixa
+# Projeto de API Web em Python para Gestão de Fluxo de Caixa (Back-End)
 
 A gestão eficiente do fluxo de caixa é crucial para o sucesso de qualquer empresa, especialmente para pequenas empresas. Para facilitar esse processo, foi desenvolvida uma API Web em Python que oferece uma solução abrangente e intuitiva para gerenciar o fluxo de caixa.
 
